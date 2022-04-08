@@ -250,7 +250,7 @@ if section == 'Analyse':
             title_x=0.5, font_size=13,
             margin=dict(l=10, r=10, b=10, t=80),
             yaxis=dict(
-                title="Pourcentage d'évolution"),
+                title="Nombre de cas"),
             legend=dict(
                 orientation="h",
                 yanchor="bottom",
@@ -300,7 +300,7 @@ if section == 'Analyse':
                 title_x=0.5, font_size=13,
                 margin=dict(l=10, r=10, b=10, t=80),
                 yaxis=dict(
-                    title="Pourcentage d'évolution"),
+                    title="Nombre de cas"),
                 legend=dict(
                     orientation="h",
                     yanchor="bottom",
@@ -323,7 +323,7 @@ if section == 'Analyse':
                 title_x=0.5, font_size=13,
                 margin=dict(l=10, r=10, b=10, t=80),
                 yaxis=dict(
-                    title="Pourcentage d'évolution"),
+                    title="Nombre de cas"),
                 legend=dict(
                     orientation="h",
                     yanchor="bottom",
@@ -345,7 +345,7 @@ if section == 'Analyse':
                 title_x=0.5, font_size=13,
                 margin=dict(l=10, r=10, b=10, t=80),
                 yaxis=dict(
-                    title="Pourcentage d'évolution"),
+                    title="Nombre de cas"),
                 legend=dict(
                     orientation="h",
                     yanchor="bottom",
@@ -469,7 +469,7 @@ if section == 'Analyse':
             title_x=0.5, font_size=13,
             margin=dict(l=10, r=10, b=10, t=80),
             yaxis=dict(
-                title="Pourcentage d'évolution"),
+                title="Nombre de contamnisations"),
             legend=dict(
                 orientation="h",
                 yanchor="bottom",
