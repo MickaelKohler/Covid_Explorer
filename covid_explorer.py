@@ -88,12 +88,12 @@ def cas_quotidiens(dataframe):
 
 # DATA
 
-COUNTRIES = "https://raw.githubusercontent.com/MickaelKohler/Covid_Explorer/main/data/countries.csv"
-TS_COUNTRIES = 'https://raw.githubusercontent.com/MickaelKohler/Covid_Explorer/main/data/ts_countries.csv'
-TS_CONTINENTS = 'https://raw.githubusercontent.com/MickaelKohler/Covid_Explorer/main/data/ts_continents.csv'
-TS_GLOBAL = 'https://raw.githubusercontent.com/MickaelKohler/Covid_Explorer/main/data/ts_glob.csv'
-POP_MONDIALE = 'https://raw.githubusercontent.com/MickaelKohler/Covid_Explorer/main/data/pop_mondiale.csv'
-COUNTRIES_CODE = 'https://raw.githubusercontent.com/MickaelKohler/Covid_Explorer/main/data/countries-codes.csv'
+COUNTRIES = "./data/countries.csv"
+TS_COUNTRIES = './data/ts_countries.csv'
+TS_CONTINENTS = './data/ts_continents.csv'
+TS_GLOBAL = './data/ts_glob.csv'
+POP_MONDIALE = './data/pop_mondiale.csv'
+COUNTRIES_CODE = './data/countries-codes.csv'
 
 df_countries = load_data(COUNTRIES)
 ts_countries = load_time_series(TS_COUNTRIES)
