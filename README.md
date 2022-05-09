@@ -4,6 +4,9 @@ Exploration des data de l'évolution de l'épidémie de Coronavirus.
 
 Les datas sont mises à disposition par le Johns Hopkins Coronavirus Resource Center et comptabilise les contamnisations journalières cumulées du 22 janvier 2020 au 10 avril 2021.
 
+Site disponible à l'adresse suivante :
+https://share.streamlit.io/mickaelkohler/covid_explorer/main/covid_explorer.py
+
 
 ## Sommaire
 
